@@ -1,7 +1,7 @@
 
 /* Home page */
 
-/* Static Data first. Header */
+/* Static Data first */
 
 
 
