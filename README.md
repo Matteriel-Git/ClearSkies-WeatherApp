@@ -1,1 +1,1 @@
-ClearSkies WeatherApp
+ClearSkies WeatherApp - Next.js
