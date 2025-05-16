@@ -1,1 +1,1 @@
-/* TypeScript interfaces and types*/
+/* TypeScript interfaces and types */
