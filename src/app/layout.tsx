@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+
+/* Root layout*/
 export default function RootLayout({
   children,
 }: {
