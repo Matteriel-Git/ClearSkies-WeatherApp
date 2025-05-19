@@ -14,3 +14,5 @@ const ForecastHourly = () => {
         </div>
     );
 };
+
+export default ForecastHourly;
