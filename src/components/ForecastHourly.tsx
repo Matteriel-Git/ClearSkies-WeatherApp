@@ -1,4 +1,6 @@
 /* Hourly forecast - Scrollable weather slots */ 
+
+/* mock data */
 import { mockWeatherData } from "lib/mockData/weather";
 
 const ForecastHourly = () => {
