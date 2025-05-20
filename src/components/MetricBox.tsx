@@ -2,7 +2,7 @@
 
 import { mockWeatherData } from "lib/mockData/weather";
 
-const MetrixBox = () => {
+const MetricBox = () => {
     return (
         <div className="">
             <p>{}</p>
@@ -13,4 +13,4 @@ const MetrixBox = () => {
     );
 };
 
-export default MetrixBox;
+export default MetricBox;
