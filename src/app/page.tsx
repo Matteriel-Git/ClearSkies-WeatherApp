@@ -8,6 +8,7 @@ import WeatherCard from "@/components/WeatherCard";
 import ForecastDaily from "@/components/ForecastDaily";
 import MetricBox from "@/components/MetricBox";
 import AirQualityBar from "@/components/AirQualityBar";
+import SunriseSunset from "@/components/SunriseSunset";
 
 
 
@@ -28,6 +29,9 @@ export default function Page() {
       <MetricBox />
       <h1 className="text-center"></h1>
       <AirQualityBar />
+      <br />
+      <h1 className="text-center">Sunrise Sunset</h1>
+      <SunriseSunset />
     </main>
   );
 };
