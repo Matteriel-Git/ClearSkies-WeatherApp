@@ -1,5 +1,6 @@
 /* Daily forecast - switchable tab for weekly view */
 
+/* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
 
 const ForecastDaily = () => {

@@ -1,5 +1,6 @@
 /* Wind, humidity, etc. - grid of small info cartds */
 
+/* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
 
 const MetricBox = () => {

@@ -1,5 +1,6 @@
 /* Air quality index - Horizontal bar chart with colorful scale */
 
+/* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
 
 const AirQualityBar = () => {
