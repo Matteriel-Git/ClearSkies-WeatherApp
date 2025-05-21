@@ -7,6 +7,7 @@ import ForecastHourly from "@/components/ForecastHourly";
 import WeatherCard from "@/components/WeatherCard";
 import ForecastDaily from "@/components/ForecastDaily";
 import MetricBox from "@/components/MetricBox";
+import AirQualityBar from "@/components/AirQualityBar";
 
 
 
@@ -25,6 +26,8 @@ export default function Page() {
       <ForecastDaily />
       <h1 className="text-left">Metric Box</h1>
       <MetricBox />
+      <h1 className="text-center"></h1>\
+      <AirQualityBar />
     </main>
   );
 };
