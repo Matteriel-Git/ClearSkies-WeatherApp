@@ -26,7 +26,7 @@ export default function Page() {
       <ForecastDaily />
       <h1 className="text-left">Metric Box</h1>
       <MetricBox />
-      <h1 className="text-center"></h1>\
+      <h1 className="text-center"></h1>
       <AirQualityBar />
     </main>
   );
