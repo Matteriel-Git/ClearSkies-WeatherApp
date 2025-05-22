@@ -4,6 +4,7 @@
 import { mockWeatherData } from "lib/mockData/weather";
 
 const WeatherCard = () => {
+    
     const current = mockWeatherData.current;
     const location = mockWeatherData.location;
 

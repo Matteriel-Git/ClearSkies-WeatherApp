@@ -4,6 +4,7 @@
 import { mockWeatherData } from "lib/mockData/weather";
 
 const ForecastHourly = () => {
+    
     return (
         <div className="grid grid-cols-3 gap-2">
         {mockWeatherData.hourly.map((hour, i) => (

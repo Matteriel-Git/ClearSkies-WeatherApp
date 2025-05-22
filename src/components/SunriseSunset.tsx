@@ -4,6 +4,7 @@
 import { mockWeatherData } from "lib/mockData/weather";
 
 const SunriseSunset = () => {
+    
     return (
         <div className="text-center">
             <p>{mockWeatherData.current.sunrise}</p>

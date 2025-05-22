@@ -4,6 +4,7 @@
 import { mockWeatherData } from "lib/mockData/weather";
 
 const MetricBox = () => {
+    
     const current = mockWeatherData.current;
     return (
         <div className="">
