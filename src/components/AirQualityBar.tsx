@@ -4,7 +4,7 @@
 import { mockWeatherData } from "lib/mockData/weather";
 
 const AirQualityBar = () => {
-    
+
     return (
         <div className="text-center">
             <h1>Air Quality Bar</h1>
@@ -12,4 +12,5 @@ const AirQualityBar = () => {
         </div>
     )
 }
+
 export default AirQualityBar;
