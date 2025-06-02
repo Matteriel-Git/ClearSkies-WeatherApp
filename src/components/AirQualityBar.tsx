@@ -1,3 +1,4 @@
+
 /* Air quality index - Horizontal bar chart with colorful scale */
 
 /* Mock data */
