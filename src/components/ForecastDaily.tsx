@@ -1,3 +1,4 @@
+
 /* Daily forecast - switchable tab for weekly view */
 
 /* Mock data */
