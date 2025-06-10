@@ -1,3 +1,4 @@
+
 /* Sunrise/Sunset - Small chart */
 
 /* Mock data */
