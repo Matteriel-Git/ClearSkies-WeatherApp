@@ -1,3 +1,4 @@
+
 /* Main weather display - Icon, city, temp, description */
 
 /* Mock data */
