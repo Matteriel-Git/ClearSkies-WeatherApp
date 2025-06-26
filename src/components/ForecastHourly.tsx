@@ -1,5 +1,5 @@
 
-/* Hourly forecast - Scrollable weather slots */ 
+/* Hourly forecast - Scrollable weather slots etc */ 
 
 /* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
