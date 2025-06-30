@@ -1,5 +1,5 @@
 
-/* Wind, humidity, etc. - grid of small info cartds */
+/* Wind, humidity, etc. - grid of small info cards */
 
 /* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
