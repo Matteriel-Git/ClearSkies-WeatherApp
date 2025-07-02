@@ -1,5 +1,5 @@
 
-/* Sunrise/Sunset - Small chart */
+/* Sunrise/Sunset - Small chart etc */
 
 /* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
