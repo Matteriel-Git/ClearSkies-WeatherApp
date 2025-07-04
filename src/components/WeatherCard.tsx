@@ -1,5 +1,5 @@
 
-/* Main weather display - Icon, city, temp, description */
+/* Main weather display - Icon, city, temp, description etc. */
 
 /* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
