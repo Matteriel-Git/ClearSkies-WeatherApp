@@ -1,5 +1,5 @@
 
-/* Daily forecast - switchable tab for weekly/Daily view */
+/* Daily forecast - switchable tab for weekly/Daily view etc */
 
 /* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
