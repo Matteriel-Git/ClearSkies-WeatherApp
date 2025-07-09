@@ -1,5 +1,5 @@
 
-/* Air quality index - Horizontal bar chart with colorful scale etc */
+/* Air quality index bar - Horizontal bar chart with colorful scale etc */
 
 /* Mock data */
 import { mockWeatherData } from "lib/mockData/weather";
